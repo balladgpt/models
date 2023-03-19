@@ -14,7 +14,7 @@ You can use BalladGPT as you would use any other GPT-2-based model:
 
 ```python
 from transformers import pipeline
-generator = pipeline('text-generation', model='mrfakename/balladgpt')
+generator = pipeline('text-generation', model='balladgpt/balladgpt-v2')
 print(generator("Once upon a time", do_sample=True, min_length=20)[0]['generated_text'])
 ```
 
