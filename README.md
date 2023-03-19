@@ -1,10 +1,10 @@
 # BalladGPT Models
 
-Unfortunately, due to the high cost of hosting LFS on GitHub, we've moved the models to HuggingFace. You can download the models [here](https://huggingface.co/balladgpt/BalladGPT).
+Unfortunately, due to the high cost of hosting LFS on GitHub, we've moved the models to HuggingFace. You can download the models [here](https://huggingface.co/balladgpt/balladgpt-v2).
 
 # Model Card
 
-This is the latest version BalladGPT. [You can try the old BalladGPT here](https://huggingface.co/mrfakename/BalladGPT-Old-V1). The old BalladGPT's dataset size was 568 KB, whereas the NEW BalladGPT's dataset size is 926 KB.
+This is the latest version BalladGPT. [You can try the old BalladGPT here](https://huggingface.co/balladgpt/balladgpt-old-v1). The old BalladGPT's dataset size was 568 KB, whereas the NEW BalladGPT's dataset size is 926 KB.
 
 ## Usage
 
